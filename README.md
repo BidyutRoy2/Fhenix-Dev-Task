@@ -1,5 +1,9 @@
 <h2 align=center> Fhenix Dev Task </h2>
 
+<p align="center">
+<img src='photo_2024-10-03_20-53-56.jpg' style="width:800px;height:400px;">
+</p>
+
 ## Join Discord
 - First join [Fhenix Discord](https://discord.gg/fhenix-io)
 - Visit `#🤖|bot-commands` and write `/quests` and select the popped up `/quests` option and then press `Enter`
@@ -85,3 +89,9 @@ contract SimpleStorage {
 ![image](https://github.com/user-attachments/assets/6131b98d-c88e-4308-ae52-acbfddb0ef3f)
 
 - Also, there contract verification tool is defective, if you use other than the above code, your contract will not be verified now
+
+# ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
+
+### ▄︻デ𝙅𝙤𝙞𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢═━一 [🎀  𝐻𝒾𝒹𝒹𝑒𝓃 𝒢𝑒𝓂  🎀](https://t.me/hiddengemnews) 
+
+### ░▒▓█►─═  𝓗𝓲𝒹ᗪ𝓔η Ǥέ𝕄 ═─◄█▓▒░
